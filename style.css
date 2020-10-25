@@ -10,3 +10,6 @@ body {
     width: 200px;
     height: 180px;
 }
+#message-input1 {
+    height: 150px;
+}
