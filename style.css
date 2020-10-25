@@ -4,6 +4,7 @@ body {
 .container {
     background-color: cornsilk;
     margin-top: 50px;
+    margin-bottom: 50px;
     width: 580px;
 }
 .woman-photo {
@@ -12,4 +13,8 @@ body {
 }
 #message-input1 {
     height: 150px;
+}
+#thumbnail {
+    width: 200px;
+    height: 200px;
 }
