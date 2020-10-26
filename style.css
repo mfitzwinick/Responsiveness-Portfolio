@@ -18,6 +18,8 @@ body {
 #thumbnail {
     width: 200px;
     height: 200px;
+    border: 1px;
+    border-color: black;
 }
 .headphones {
     margin-top: 15px;
