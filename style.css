@@ -6,7 +6,7 @@ body {
     margin-top: 50px;
     margin-bottom: 50px;
     padding-bottom: 50px;
-    width: 580px;
+    width: 620px;
 }
 .woman-photo {
     width: 200px;
@@ -22,4 +22,5 @@ body {
 .headphones {
     margin-top: 15px;
     margin-bottom: 15px;
+    margin-left: 15px;
 }
