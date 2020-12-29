@@ -8,7 +8,7 @@ I will be supplying a url to the project along with a git hub url.
 
 # Things needed to view
 
-The index.html is a file that is linked to both a style sheet (asssets/css/style.css) and two sub html indices, named contactindex.html and portfolioindex.html.  They are also linked to the included image files.  I also provided a Bootstrap link in the header in order to utilize the sites content and templates.   For alternate viewports, a viewport meta tage was included on all html pages.
+The index.html is a file that is linked to both a style sheet (asssets/css/style.css) and two sub html indices, named contactindex.html and portfolioindex.html.  They are also linked to the included image files.  I also provided a Bootstrap link in the header in order to utilize the sites content and templates.   For alternate viewports, a viewport meta tag is included on the html page.
 
 # Challenges and Observations
 
