@@ -13,7 +13,11 @@ The index.html is a file that is linked to both a style sheet (asssets/css/style
 - CSS
 - Javascript
 
+## Screenshots
 
+<img width="1702" alt="Screen Shot 2020-12-28 at 7 51 56 PM" src="https://user-images.githubusercontent.com/72819785/103257525-61116380-4946-11eb-8b3f-e014faaa424d.png">
+
+<img width="1702" alt="Screen Shot 2020-12-28 at 7 51 44 PM" src="https://user-images.githubusercontent.com/72819785/103257599-b3eb1b00-4946-11eb-8c69-ded21c1f53e5.png">
 
 # Content Provided
 
