@@ -86,8 +86,8 @@ li {
     border-color: black;
     margin-left:20px;
     margin-right:20px;
-    margin-top:35px;
-    margin-bottom: 40px;
+    margin-top:20px;
+    margin-bottom: 20px;
     padding-right: 14px;
     padding-left: 1px;
     padding-top: 1px;
@@ -101,11 +101,12 @@ li {
 
 .frame {
     background-color: black !important;
-    margin: 5px;
+    margin: 25px;
     width: 620px;
+
 }
 
 .navbar-brand {
-        font-family: Arial, Helvetica, sans-serif;
-        font-size: 35px;
+    font-family: 'Julius Sans One', sans-serif !important;
+        font-size: 50px;
       }
