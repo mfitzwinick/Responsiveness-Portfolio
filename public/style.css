@@ -5,6 +5,11 @@ li {
   color: #59886b;
 }
 
+h1 {
+  font-weight: 400;
+  color: #59886b;
+}
+
 #navportfoliolink {
   color: #120078 !important;
   hover: yellow !important;
@@ -105,4 +110,8 @@ li {
 .navbar-brand {
   font-family: "Julius Sans One", sans-serif !important;
   font-size: 50px;
+}
+.description {
+  font-family: "Hind Vadodara", sans-serif;
+  font-size: x-large;
 }
