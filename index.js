@@ -1,10 +1,6 @@
 
+function createMessage() {
 
-
-
-
-function createMessage(){
-    
     var userInfo = {
         name: $("#name").val().trim(),
         email: $("#email").val().trim(),
@@ -21,9 +17,9 @@ function createMessage(){
 
 };
 
-$("#submitBtn").on("click", (event)=>{
-   console.log($("#email").val(),
-   $("#name").val(),
-   $("#location").val()) 
+$("#submitBtn").on("click", (event) => {
+    console.log($("#email").val(),
+        $("#name").val(),
+        $("#location").val())
     createMessage()
 })

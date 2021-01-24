@@ -15,9 +15,10 @@ app.use(express.static("public"));
 
 mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/userdb", { useNewUrlParser: true });
 
-app.post("/submit", ({ body }, res) => {
-  User.create(body)
+app.post("/submit", ({ body}, res) => {
+  db.User.create(body)
     .then(dbUser => {
+      console.log(dbUser)
       res.json(dbUser);
     })
     .catch(err => {
